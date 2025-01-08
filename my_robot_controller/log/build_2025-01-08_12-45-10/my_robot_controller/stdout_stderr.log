@@ -1,0 +1,25 @@
+running develop
+/usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 2.22.1ubuntu1 is an invalid version and will not be supported in a future release
+  warnings.warn(
+running egg_info
+creating my_robot_controller.egg-info
+writing my_robot_controller.egg-info/PKG-INFO
+writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+writing entry points to my_robot_controller.egg-info/entry_points.txt
+writing requirements to my_robot_controller.egg-info/requires.txt
+writing top-level names to my_robot_controller.egg-info/top_level.txt
+writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+Installing navigation_controller script to /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/my_robot_controller
+Installing order_manager script to /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/my_robot_controller
+
+Installed /home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller
+running symlink_data
+creating /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index
+creating /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index
+creating /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index/packages
+symbolically linking /home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller/resource/my_robot_controller -> /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index/packages
+symbolically linking /home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller/package.xml -> /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/my_robot_controller

@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "test_node = my_robot_controller.my_first_node:main"
+            'order_manager = my_robot_controller.order_manager:main',
+            'navigation_controller = my_robot_controller.navigation_controller:main',
         ],
-    },
+    },  # <-- This was the missing closing parenthesis
 )

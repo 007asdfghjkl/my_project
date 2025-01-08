@@ -1,0 +1,27 @@
+[0.864s] Invoking command in '/home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller': PYTHONPATH=/home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller/build --no-deps symlink_data
+[1.424s] running develop
+[1.574s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 2.22.1ubuntu1 is an invalid version and will not be supported in a future release
+[1.574s]   warnings.warn(
+[1.885s] running egg_info
+[1.885s] creating my_robot_controller.egg-info
+[1.885s] writing my_robot_controller.egg-info/PKG-INFO
+[1.885s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.886s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.886s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.886s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.888s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.892s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.893s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.898s] running build_ext
+[1.899s] Creating /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.900s] Installing navigation_controller script to /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/my_robot_controller
+[1.900s] Installing order_manager script to /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/my_robot_controller
+[1.901s] 
+[1.902s] Installed /home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller
+[1.903s] running symlink_data
+[1.903s] creating /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index
+[1.903s] creating /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index
+[1.903s] creating /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.904s] symbolically linking /home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller/resource/my_robot_controller -> /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/ament_index/resource_index/packages
+[1.906s] symbolically linking /home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller/package.xml -> /home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/share/my_robot_controller
+[1.970s] Invoked command in '/home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller' returned '0': PYTHONPATH=/home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arul/ros2_ws/src/my_robot_controller/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/arul/ros2_ws/src/my_robot_controller/build/my_robot_controller/build --no-deps symlink_data
